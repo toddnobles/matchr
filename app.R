@@ -3,7 +3,6 @@ library(bslib)
 library(DT)
 library(dplyr)
 library(stringr)
-library(purrr)
 library(readr)
 
 ui <- page_navbar(
